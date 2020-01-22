@@ -2,6 +2,8 @@
 
 ## A quiz for each reading assignment
 
+![](programming-code.webp) 
+
 >What's up my coder people? -Craig Barkley
 
 `if (awake)
