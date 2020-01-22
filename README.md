@@ -2,8 +2,6 @@
 
 ## A quiz for each reading assignment
 
-![programming pic][/programming-code.jpg]
-
 >What's up my coder people? -Craig Barkley
 
 `if (awake)
