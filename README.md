@@ -1,6 +1,16 @@
-# 201 Reading Notes
+# Code 201 Reading Notes
 
 ## A quiz for each reading assignment
+
+>What's up my coder people? -Craig Barkley
+
+`if (awake)
+
+    {code}
+
+else 
+
+    {sleep}`
 
 [Reading Notes 1](https://github.com/LillyMcBride2/reading-notes/blob/master/class-01.md)
 
