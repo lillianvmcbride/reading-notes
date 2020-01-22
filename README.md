@@ -2,7 +2,7 @@
 
 ## A quiz for each reading assignment
 
-![][programming-code.webp]
+![][programming-code.jpg]
 
 >What's up my coder people? -Craig Barkley
 
