@@ -10,6 +10,28 @@ True or False (Scroll for answers)
 
 5. A script tag in HTML should include "href="folderName/fileName.js."
 
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
 
 
 
@@ -28,13 +50,4 @@ True or False (Scroll for answers)
 
 
 
-
-1. T
-
-2. T
-
-3. T
-
-4. F
-
-5. F
+T, T, T, F, F
