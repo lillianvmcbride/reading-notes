@@ -1,6 +1,6 @@
-# Code 201 Reading Notes
+# Reading Notes
 
-## A quiz for each reading assignment
+A collection of notes from assigned readings
 
 >What's up my coder people? -Craig Barkley
 
@@ -9,6 +9,7 @@
 else 
 {sleep}`
 
+## Code 201 - Foundations of Software Development
 [Reading Notes 1](https://github.com/LillyMcBride2/reading-notes/blob/master/class-01.md)
 
 [Reading Notes 2](https://github.com/LillyMcBride2/reading-notes/blob/master/class-01.md)
@@ -38,3 +39,9 @@ else
 [Reading Notes 14](https://github.com/LillyMcBride2/reading-notes/blob/master/class-01.md)
 
 [Reading Notes 15](https://github.com/LillyMcBride2/reading-notes/blob/master/class-01.md)
+
+## Code 301 - Intermediate Software Development
+
+[Reading Notes 1](https://github.com/LillyMcBride2/reading-notes/blob/master/301-01.md)
+
+
