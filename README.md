@@ -42,6 +42,6 @@ else
 
 ## Code 301 - Intermediate Software Development
 
-[Reading Notes 1](https://github.com/LillyMcBride2/reading-notes/blob/master/301-01.md)
+[Reading Notes 1](https://github.com/lillianvmcbride/reading-notes/blob/master/301-01.md)
 
 
